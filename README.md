@@ -1,6 +1,6 @@
 # Sonora 🎧
 
-![Banner de Sonora](https://github.com/tuusuario/sonora-bot/blob/main/assets/banner.png)
+![Banner de Sonora](https://github.com/Panxito24/Sonora_Bot/blob/main/sonora.png)
 
 > **Asistente inteligente para Discord especializado en información deportiva en tiempo real.**
 
