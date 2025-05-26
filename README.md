@@ -2,7 +2,7 @@
 
 ![Banner de Sonora](https://github.com/Panxito24/Sonora_Bot/blob/main/sonora.jpg)
 
-> **Asistente inteligente para Discord especializado en información deportiva en tiempo real.**
+> **Asistente inteligente para Discord especializado en información de internet.**
 
 ---
 
